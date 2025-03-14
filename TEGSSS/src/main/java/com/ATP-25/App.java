@@ -1,4 +1,4 @@
-package com.ATP-25;
+package com.ATP2507;
 
 /**
  * Hello world!
